@@ -1,0 +1,11 @@
+{
+    "meu_dinheiro": 68900,
+    "carros": [],
+    "casas": [],
+    "perifericos": [
+        {
+            "item": "Fone de ouvido sem fio",
+            "complemento": 500
+        }
+    ]
+}
