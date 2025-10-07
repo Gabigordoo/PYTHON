@@ -1,0 +1,19 @@
+[
+    {
+    "user1": {
+        "name": "Alice",
+        "age": 30,
+        "email": "alice@example.com"
+    },
+    "user2": {
+        "name": "Bruno",
+        "age": 25,
+        "email": "bruno@example.com"
+    },
+    "user3": {
+        "name": "Carla",
+        "age": 28,
+        "email": "carla@example.com"
+    }
+}
+]

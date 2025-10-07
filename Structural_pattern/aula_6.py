@@ -14,5 +14,5 @@ def execute_command(command):
     print('...rest of the code')
 
 
-execute_command('ls /home/ /Users /mais')
+# execute_command('ls /home/ /Users /mais')
 execute_command('ls /one/')
